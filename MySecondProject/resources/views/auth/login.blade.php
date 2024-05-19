@@ -37,7 +37,7 @@
                       <div class="tab-btn-box">
                           <ul class="tab-btns tab-buttons centred clearfix">
                               <li class="tab-btn active-btn" data-tab="#tab-1">Login</li>
-                              <li class="tab-btn" data-tab="#tab-2">Register</li>
+                              <li class="tab-btn" data-tab="#tab-2">سجل الآن</li>
                           </ul>
                       </div>
                       <div class="tabs-content">
